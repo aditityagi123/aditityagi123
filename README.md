@@ -5,9 +5,7 @@
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [anugyaagr303@gmail.com](mailto:anugyaagr303@gmail.com)
-- 💼 LinkedIn: [Anugya Agarwal](https://linkedin.com/in/anugya-agarwal-b21b0a253)
+
 
 ---
 
